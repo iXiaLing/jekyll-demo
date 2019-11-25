@@ -1,6 +1,6 @@
 ---
-layout:default
-title:hello jekyll
+layout: default
+title: hello jekyll
 ---
 
 <h2>{{page.title}}</h2>
